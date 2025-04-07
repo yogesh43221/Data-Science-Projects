@@ -5,6 +5,21 @@ This project is focused on detecting fraudulent financial transactions using cla
 > 📌 The **main analysis and implementation** was carried out in a detailed `fruad_detection_final.ipynb` notebook using **Google Colab**.
 
 ---
+## 📊 Dataset Description
+The dataset contains 6,362,620 transaction records with 11 features, simulating mobile money transfers and fraud behavior. Key columns include:
+
+  * type: Transaction type (PAYMENT, TRANSFER, CASH_OUT, etc.)
+
+  * amount: Transaction amount
+
+  * oldbalanceOrg / newbalanceOrig: Sender’s balance before and after the transaction
+
+  * oldbalanceDest / newbalanceDest: Receiver’s balance before and after
+
+  * isFraud: Indicates whether the transaction is fraudulent (1) or not (0)
+
+There are no missing values, and the dataset is ideal for binary fraud classification tasks.
+
 📁 **Dataset:** [Click here to download the Fraud Detection dataset](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV)
 ---
 ## 📈 Project Overview
