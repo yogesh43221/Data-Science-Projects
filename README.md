@@ -18,6 +18,8 @@ Here, you'll find a collection of end-to-end data science and machine learning p
 
 🔗 [Explore Project](https://github.com/yogesh43221/Data-Science-Projects/tree/main/Transaction%20Fraud%20Detection)
 
+📁 **Dataset:** [Click here to download the Fraud Detection dataset](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV)
+
 ---
 
 ### 2. 📊 [Project Name Here]
