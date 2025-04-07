@@ -5,7 +5,8 @@ This project is focused on detecting fraudulent financial transactions using cla
 > 📌 The **main analysis and implementation** was carried out in a detailed `fruad_detection_final.ipynb` notebook using **Google Colab**.
 
 ---
-
+📁 **Dataset:** [Click here to download the Fraud Detection dataset](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV)
+---
 ## 📈 Project Overview
 
 ### ✅ Goals:
