@@ -7,7 +7,7 @@ Here, you'll find a collection of end-to-end data science and machine learning p
 
 ## 📌 Featured Projects
 
-### 1. 💳 [Fraud Detection Using Machine Learning](./fraud-detection-deploy/)
+### 1. 💳 [Fraud Detection Using Machine Learning](https://github.com/yogesh43221/Data-Science-Projects/tree/main/Transaction%20Fraud%20Detection)
 **Goal:** Detect fraudulent financial transactions with high recall and precision  
 **Tech Stack:** Python, Scikit-learn, XGBoost, SMOTE, Streamlit  
 **Highlights:**  
@@ -16,7 +16,7 @@ Here, you'll find a collection of end-to-end data science and machine learning p
 - Streamlit app to interact and predict transactions  
 - ROC-AUC: **0.9981**, Recall: **1.00**  
 
-🔗 [Explore Project](./fraud-detection-deploy/)
+🔗 [Explore Project](https://github.com/yogesh43221/Data-Science-Projects/tree/main/Transaction%20Fraud%20Detection)
 
 ---
 
